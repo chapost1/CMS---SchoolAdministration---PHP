@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/DbCalls/multipleQuerys.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/DbCalls/studentsTable.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/getSpecific/administatorController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Models/student.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/getSpecific/studentController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/DbCalls/connection.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/DbCalls/coursesTable.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Viewers/login.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/multipleController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/existEditor/courseController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/existEditor/administatorController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Viewers/404.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/getSpecific/courseController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/adderAndAll/administatorsController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/scripts/dealsTable.js</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Models/tableDeal.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Viewers/deals.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/DbCalls/administatorsTable.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/styles/style.css</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/adderAndAll/coursesController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Models/deal.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Viewers/school.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/loginControl.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/existEditor/studentController.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/multipleController2.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/scripts/login.js</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Viewers/administration.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/index.php</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/scripts/mainPages.js</file>
+            <file>file:/C:/xampp/htdocs/schoolAdministration-ST/Controllers/unsetSession.php</file>
+        </group>
+    </open-files>
+</project-private>
